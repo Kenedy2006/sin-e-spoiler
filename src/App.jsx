@@ -7,6 +7,7 @@ function App() {
     <Header />
     <h2>Las mejores películas de la historia</h2>
     <Footer />
+    </>
   )
 }
 
